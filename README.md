@@ -1,0 +1,1 @@
+this blend file is for a claymore (longsword) model I made. There are no textures included with the model. I didnt disconnect any textures from the shaders, or delete the shaders. One will have to re-texture if they want to use this model.
